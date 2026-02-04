@@ -20,4 +20,3 @@ that can inform smarter trading decisions.
 
 ---
 
-## Project Structure
